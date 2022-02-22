@@ -1,3 +1,3 @@
-package onemod
+package cue
 
 msg: "i'm module one"
