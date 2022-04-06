@@ -1,3 +1,2 @@
-# Test for cue imports
-
-edit test
+# Cue playground
+Mostly a client tester of github.com/utilitywarehouse/system-cue
